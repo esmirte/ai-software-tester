@@ -1,0 +1,22 @@
+# Ambiente Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Segredos
+.env
+.env.*
+
+# Dados locais e temporários
+data/
+logs/
+workspace/
+*.db
+*.sqlite
+*.sqlite3
+
+# Sistema
+.DS_Store

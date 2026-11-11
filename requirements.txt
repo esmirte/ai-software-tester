@@ -1,0 +1,9 @@
+pytest>=8.0
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+pandas>=2.2
+streamlit>=1.35
+reportlab>=4.0        # opcional: relatórios PDF
+anthropic>=0.40       # opcional: IA generativa (defina ANTHROPIC_API_KEY)
+# playwright>=1.44    # opcional: testes de interface
